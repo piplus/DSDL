@@ -1,0 +1,4 @@
+uint8 mytype_id
+float32 mytype_float
+
+@sealed
