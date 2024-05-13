@@ -1,0 +1,5 @@
+uint8[<=256] mytype_str
+float32 mytype_float
+
+
+@sealed
